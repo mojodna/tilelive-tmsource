@@ -1,5 +1,9 @@
 # Changes
 
+## v0.8.0 - 6/28/18
+
+* Upgrade `@mapbox/tilelive-bridge` to `^3.0.0`
+
 ## v0.7.0 - 5/2/18
 
 * Support YAML input in place of a URI (or as a `yaml` property on the provided
