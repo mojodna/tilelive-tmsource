@@ -1,5 +1,9 @@
 # Changes
 
+## v0.8.1 - 7/10/18
+
+* Update to match new `carto.Renderer.render()` return signature
+
 ## v0.8.0 - 6/28/18
 
 * Upgrade `@mapbox/tilelive-bridge` to `^3.0.0`

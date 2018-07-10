@@ -201,7 +201,7 @@ TMSource.prototype.init = function(uri, yamlData, callback) {
       return callback(err);
     }
 
-    uri.xml = xml;
+    uri.xml = xml.data;
     uri.base = uri.pathname;
 
     return Bridge.call(self, uri, callback);
