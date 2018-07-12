@@ -208,10 +208,6 @@ TMSource.prototype.init = function(uri, yamlData, callback) {
   });
 };
 
-TMSource.prototype.getInfo = function(callback) {
-  return setImmediate(callback, null, this.info);
-};
-
 util.inherits(TMSource, Bridge);
 
 TMSource.registerProtocols = function(tilelive) {

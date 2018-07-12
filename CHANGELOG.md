@@ -1,5 +1,9 @@
 # Changes
 
+## v0.8.2 - 7/12/18
+
+* Delegate `getInfo()` to `tilelive-bridge` to prevent data leakage
+
 ## v0.8.1 - 7/10/18
 
 * Update to match new `carto.Renderer.render()` return signature
