@@ -1,6 +1,6 @@
 {
   "name": "tilelive-tmsource",
-  "version": "0.8.1",
+  "version": "0.8.2",
   "description": "A tilelive.js source for tmsource:// URIs",
   "contributors": [
     "TM2 Contributors",
